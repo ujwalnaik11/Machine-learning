@@ -15,4 +15,11 @@ This repository will house all codes related to my work in Machine Learning
 * Support Vector Machine
 * Gradient Boosting Classifier
 
+## 3. Sales Prediction
+
+### key skills:
+* Feature Engineering
+* XGBoost Regressor
+
+
 
