@@ -2,7 +2,6 @@
 
 This repository will house all codes related to my work in Machine Learning
 
-## Predictive Analytics:
 ### 1.Finding Donors For Charity (Classification)
 
 #### key skills:
