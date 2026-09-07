@@ -2,7 +2,7 @@
 
 This repository will house all codes related to my work in Machine Learning
 
-### [1.Procurement KPI analysis (Classification)](https://github.com/ujwalnaik11/Machine-learning/blob/main/KPI_Procurement_ensemble.ipynb)
+### [1.Semiconductor Yield Failure Prediction (Classification)](https://github.com/ujwalnaik11/Machine-learning/blob/main/SECOM_Rigorous_Allmodels.ipynb)
 #### key skills:
 * Feature Engineering
 * SMOTENC for class imbalance
