@@ -3,10 +3,7 @@
 This repository will house all codes related to my work in Machine Learning
 
 ### [1.Semiconductor Yield Failure Prediction (Classification)](https://github.com/ujwalnaik11/Machine-learning/blob/main/SECOM_Rigorous_Allmodels.ipynb)
-#### key skills:
-* Feature Engineering
-* SMOTENC for class imbalance
-* RandomForest, XGBoost, GradientBoosting, AdaBoost
+The project investigates semiconductor yield-failure screening using the UCI SECOM dataset. Analyzing manufacturing/process data, identifying candidate signals associated with failures, supporting process-control investigation, and evaluating machine-learning approaches under severe class imbalance.
 
 
 ### [2.Finding Donors For Charity (Classification)](https://github.com/ujwalnaik11/Machine-learning/blob/main/Find_Donor.ipynb)
